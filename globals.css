@@ -1,0 +1,6 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{background:#f1f4f8;color:#0b1f3a;font-family:'Sarabun','Segoe UI',system-ui,sans-serif}
+.inp{width:100%;border:1px solid #cbd5e1;border-radius:6px;padding:.5rem .65rem;background:#fff}
+.inp:focus{outline:2px solid #1b4278}
+.btn{background:#0b1f3a;color:#fff;border-radius:6px;padding:.55rem 1.1rem;font-weight:600}
+.btn:hover{background:#1b4278}
